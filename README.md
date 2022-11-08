@@ -10,5 +10,6 @@ The program makes use of multithreading
 
 sample console instructions:
     $ gcc BagOfWords.c
+    
     $ gcc a.out "test.txt"
 
