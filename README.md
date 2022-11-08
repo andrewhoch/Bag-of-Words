@@ -1,6 +1,5 @@
 # Bag-of-Words
 
-
 Andrew Hoch
 
 This program takes as input a text file
