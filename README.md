@@ -1,14 +1,14 @@
 # Bag-of-Words
 
 
-#Andrew Hoch
+Andrew Hoch
 
-#This program takes as input a text file
-#Outputs to the console each word in the file and its number of occurences
+This program takes as input a text file
+Outputs to the console each word in the file and its number of occurences
 
-#The program makes use of multithreading
+The program makes use of multithreading
 
-#sample console instructions:
+sample console instructions:
     
     $ gcc BagOfWords.c
     
